@@ -709,6 +709,19 @@ footer .copyright {
     }
 }
 
+/* Shop Page */
+#page-header {
+    background-image: url("/style/img/banner/b1.jpg");
+    height: 40vh;
+    background-size: cover;
+    text-align: center;
+    padding: 14px;
+}
+
+#page-header h2,
+#page-header p {
+    color: var(--white);
+}
 
 
 
