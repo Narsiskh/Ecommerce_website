@@ -14,11 +14,3 @@ if (close) {
         nav.classList.remove('active');
     })
 }
-
-
-//Shop Page
-/*const products = document.getElementsByClassName("pro");
-
-products.addEventListener("click", () => {
-    window.location.href = 'sproduct.html';
-})*/
