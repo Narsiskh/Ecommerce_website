@@ -1,0 +1,13 @@
+{
+  "name": "Ecommerce_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Narsiskh/Ecommerce_website.git",
+  "author": "Narsis <narsiskh.2013@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.2",
+    "bootstrap": "5.3.1",
+    "bootstrap-icons": "^1.11.1"
+  }
+}
